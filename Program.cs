@@ -10,6 +10,8 @@ namespace Stack_DataStructure
             stack.push(30);
             stack.push(56);
             stack.display();
+            stack.peek();
+            stack.pop();
 
         }
     }
